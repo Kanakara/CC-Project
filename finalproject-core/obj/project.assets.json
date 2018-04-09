@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kanakara\\Desktop\\Git\\CC Project\\TestAreaProject\\FinalProject\\finalproject-core\\finalproject-core.csproj",
+      "projectUniqueName": "c:\\Users\\Kanakara\\Desktop\\Git\\CC Project\\TestAreaProject\\FinalProject\\FinalProject\\finalproject-core\\finalproject-core.csproj",
       "projectName": "finalproject-core",
-      "projectPath": "C:\\Users\\Kanakara\\Desktop\\Git\\CC Project\\TestAreaProject\\FinalProject\\finalproject-core\\finalproject-core.csproj",
+      "projectPath": "c:\\Users\\Kanakara\\Desktop\\Git\\CC Project\\TestAreaProject\\FinalProject\\FinalProject\\finalproject-core\\finalproject-core.csproj",
       "packagesPath": "C:\\Users\\Kanakara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kanakara\\Desktop\\Git\\CC Project\\TestAreaProject\\FinalProject\\finalproject-core\\obj\\",
+      "outputPath": "c:\\Users\\Kanakara\\Desktop\\Git\\CC Project\\TestAreaProject\\FinalProject\\FinalProject\\finalproject-core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

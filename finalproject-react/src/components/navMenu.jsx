@@ -1,35 +1,38 @@
 import React from 'react';
+import { Navbar, Nav, NavItem } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
 
 class NavMenu extends React.Component {
     render() {
         return (
-            <div className='main-nav'>
-                <div className='navbar navbar-inverse'>
-                <div className='navbar-header'>
-                </div>
-                <div className='clearfix'></div>
-                <div className='navbar-collapse collapse'>
-                    <ul className='nav navbar-nav'>
-                        <li>
-                            <NavLink exact to={ '/' } activeClassName='active'>
-                                <span className='glyphicon glyphicon-home'></span> Home
-                            </NavLink>
-                        </li>
-                        <li>
-                            <NavLink to={ '/login' } activeClassName='active'>
-                                <span className='glyphicon glyphicon-education'></span> Login
-                            </NavLink>
-                        </li>
-                        <li>
-                            <NavLink to={ '/ContactUs' } activeClassName='active'>
-                                <span className='glyphicon glyphicon-th-list'></span> Contact Us
-                            </NavLink>
-                        </li>
-                    </ul>
-                </div>
-                </div>
-            </div>);
+            <Navbar>
+                <Navbar.Header>
+                    <Navbar.Brand>
+                        <NavLink to={'/'}>Sleepy You</NavLink>
+                    </Navbar.Brand>
+                    <Navbar.Toggle />
+                </Navbar.Header>
+                <Navbar.Collapse>
+                    <Nav pullRight>
+                        <NavItem eventKey={1} componentClass={NavLink} to='/'>
+                            Home
+                        </NavItem>
+                        <NavItem eventKey={2} componentClass={NavLink} to='/about'>
+                            About Us
+                        </NavItem>
+                        <NavItem eventKey={3} componentClass={NavLink} to='/contactUs'>
+                            Contact Us
+                        </NavItem>
+                        <NavItem eventKey={4} componentClass={NavLink} to='/registerPage'>
+                            Register
+                        </NavItem>
+                        <NavItem eventKey={5} componentClass={NavLink} to='/login'>
+                            Login
+                        </NavItem>
+                    </Nav>
+                </Navbar.Collapse>
+            </Navbar>
+            );
     }
 }
 

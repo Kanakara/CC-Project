@@ -1,4 +1,5 @@
 import React from 'react';
+import axios from 'axios';
 
 
 class RegisterForm extends React.Component {
@@ -28,8 +29,9 @@ class RegisterForm extends React.Component {
 
     render() {
         return (
-            <form onSubmit={this.onSubmit}>
+            <div>
                 <h1>Join</h1>
+            <form onSubmit={this.onSubmit}>
                 <div className="form-group">
                     <label className="control-label">UserName</label>
                     <input 
@@ -41,7 +43,7 @@ class RegisterForm extends React.Component {
                     />
                 </div>
                 <div className="form-group">
-                    <label className="control-label">UserName</label>
+                    <label className="control-label">First Name</label>
                     <input 
                         onChange={this.onChange}
                         value={this.state.nameFirst}
@@ -51,7 +53,7 @@ class RegisterForm extends React.Component {
                     />
                 </div>   
                 <div className="form-group">
-                    <label className="control-label">UserName</label>
+                    <label className="control-label">Last Name</label>
                     <input 
                         onChange={this.onChange}
                         value={this.state.nameLast}
@@ -61,7 +63,7 @@ class RegisterForm extends React.Component {
                     />
                 </div>   
                 <div className="form-group">
-                    <label className="control-label">UserName</label>
+                    <label className="control-label">E-Mail Address</label>
                     <input 
                         onChange={this.onChange}
                         value={this.state.email}
@@ -71,7 +73,7 @@ class RegisterForm extends React.Component {
                     />
                 </div>   
                 <div className="form-group">
-                    <label className="control-label">UserName</label>
+                    <label className="control-label">Password</label>
                     <input 
                         onChange={this.onChange}
                         value={this.state.password}
@@ -81,7 +83,7 @@ class RegisterForm extends React.Component {
                     />
                 </div>      
                 <div className="form-group">
-                    <label className="control-label">UserName</label>
+                    <label className="control-label">Confirm Password</label>
                     <input 
                         onChange={this.onChange}
                         value={this.state.passwordConfirmation}
@@ -97,12 +99,13 @@ class RegisterForm extends React.Component {
                     </button>
                 </div>         
             </form>
+        </div>
         );
     }
 }
 
-RegisterForm.propTypes = {
-    userRegisterRequest: React.PropTypes.func.isRequired
-}
+// RegisterForm.propTypes = {
+//     userRegisterRequest: React.PropTypes.func.isRequired
+// }
 
 export default RegisterForm;

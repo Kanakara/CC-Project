@@ -1,11 +1,16 @@
 import React from 'react';
+import {Jumbotron, Grid, Row, Col, Image, Button } from 'react-bootstrap';
 
 export default class Home extends React.Component {
     render() {
         return (
-        <div>
-            <h1>Hello, world!</h1>
-            <p>Welcome to your page, built with: React.js and .NETCORE </p>
+        <div> 
+            <Grid> 
+                <Jumbotron>
+                    <h2>Welcome to the Sleepy You</h2>
+                    <p>This is a website to help you understand and maintain your sleep habits</p>
+                </Jumbotron>
+            </Grid>
         </div>
         );
     }

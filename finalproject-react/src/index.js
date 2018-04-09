@@ -1,23 +1,39 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './css/index.css';
+import Main from './components/main';
 import { Provider } from 'react-redux';
-import { ConnectedRouter } from 'react-router-redux';
-import { createBrowserHistory } from 'history';
-import { createStore } from 'redux';
-// import configureStore from './configureStore';
-// import { ApplicationState }  from './store';
+
+import thunk from 'redux-thunk';
+
+import store from './helpers/store';
 import routes from './routes';
 import registerServiceWorker from './registerServiceWorker';
 
-const baseUrl = document.getElementsByTagName('base')[0].getAttribute('href');
-const history = createBrowserHistory({ basename: baseUrl });
+// This is the code that is making things not work,
+// because we need to set up the reducers for the project
 
-const initialState = null;
-const store = createStore(null);
+{/* // import { ConnectedRouter as Router, routerReducer, routerMiddleware } from 'react-router-redux';
+// import createHistory from 'history/createBrowserHistory';
+// import { createStore, applyMiddleware, combineReducers } from 'redux'; */}
+
+// import registerReducer from './reducers/';
+
+{/* This will need to be implemented eventually:
+import { ApplicationState }  from './store'; */}
+
+// const history = createHistory();
+// const middleware = routerMiddleware(history);
+
+// const initialState = null;
+// const reducers = combineReducers({ register: registerReducer, router: routerReducer });
+
 
 ReactDOM.render(
-    <Provider store={ store }>
-    <ConnectedRouter history={ history } children={ routes } />
-</Provider>, document.getElementById('root'));
+    // <Provider store={ store }>
+    // <Router history={ history } routes={ routes } />
+    // </Provider>
+    <Main />
+    , document.getElementById('root'));
+    
 registerServiceWorker();

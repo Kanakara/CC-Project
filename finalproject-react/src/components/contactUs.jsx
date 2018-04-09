@@ -4,7 +4,11 @@ import { RouteComponentProps } from 'react-router-dom';
 export default class ContactUs extends React.Component {
   constructor(){
     super();
-    this.state = {email: null, name: null, message: null};
+    this.state = {
+      email: '',
+      name: '',
+      message: ''
+    };
   }
    submitHandler() {
     fetch("http://localhost:5000/api/ContactUs/")
@@ -20,23 +24,45 @@ export default class ContactUs extends React.Component {
   }
 
     render() {
-    return (
-      <div>
-        <h1>Contact us</h1>
-        <input type='email' onChange={this.updateEmail}/>
-        <input type='textbox' />
-        <textarea/>
-        <form action="/ContactUs">
-        First name:<br/>
-        <input type="text" name="firstname" value="First name"/>
-      <br/>
-       Last name: <br/>
-      <input type="text" name="lastname" value="Last name"/>
-      <br/>
-        <button onClick={this.submitHandler}></button>
-        <input type="submit" value="Submit"/>
-       </form>
-      </div>
+      return (
+        <form onSubmit={this.onSubmit}>
+                <h1>Countact Us</h1>
+                <div className="form-group">
+                    <label className="control-label">Full Name</label>
+                    <input 
+                        onChange={this.onChange}
+                        value={this.state.name}
+                        type="text"
+                        name="name"
+                        className="form-control"
+                    />
+                </div>
+                <div className="form-group">
+                    <label className="control-label">E-mail</label>
+                    <input 
+                        onChange={this.onChange}
+                        value={this.state.email}
+                        type="text"
+                        name="email"
+                        className="form-control"
+                    />
+                </div>   
+                <div className="form-group">
+                    <label className="control-label">Message</label>
+                    <input 
+                        onChange={this.onChange}
+                        value={this.state.message}
+                        type="text"
+                        name="message"
+                        className="form-control"
+                    />
+                </div>
+                <div className="form-group">
+                    <button className="btn btn-primary btn-lg">
+                        Sign Up
+                    </button>
+                </div>         
+            </form>   
     );
   }
  }

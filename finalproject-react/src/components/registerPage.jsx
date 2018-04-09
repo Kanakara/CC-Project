@@ -9,19 +9,19 @@ class RegisterPage extends React.Component {
     render() {
         const { userRegisterRequest } = this.props;
         return (
-            <div>
-            {/* <div className="row">
-                <div className="col-md-4 col-md-offset-4"> */}
+            <div className="row">
+                <div className="col-md-4 col-md-offset-4">
                     <RegisterForm userRegisterRequest={userRegisterRequest}/>
-                {/* </div>
-            </div> */}
+                </div>
             </div>
+
         );
     }
 
 }
+// Commented out until i can get all of it to work
 // RegisterPage.propTypes = {
 //     userRegisterRequest: React.PropTypes.func.isRequired
 // }
 
-// export default connect(null, { userRegisterRequest }) (RegisterPage); 
+export default connect(null, { userRegisterRequest }) (RegisterPage); 
