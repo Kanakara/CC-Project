@@ -8,7 +8,7 @@ export default class Home extends React.Component {
             <Grid> 
                 <Jumbotron>
                     <h2>Welcome to the Sleepy You</h2>
-                    <p>This is a website to help you understand and maintain your sleep habits</p>
+                    <p>This is a website to help you understand and maintain your sleep habits.</p>
                 </Jumbotron>
             </Grid>
         </div>
