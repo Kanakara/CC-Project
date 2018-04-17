@@ -1,38 +1,41 @@
-import React from 'react';
+import React, { Component } from 'react'
 import PropTypes from 'prop-types';
-// import { RouteComponentProps } from 'react-router-dom';
 import { connect } from 'react-redux';
-// import { fetchSubmit, newSubmit } from '../actions/submitActions';
+import { Submit } from '../actions/submitActions';
 
-class Submit extends React.Component {
-    componentWillMount() {
-        this.props.fetchSubmit();
-    }
-    componentWillReceiveProps(nextProps) {
-        if (nextProps.newSubmit) {
-            this.props.Submit.unshift(nextProps.newSubmit);
-        }
+
+class ContactUs extends React.Component {
+    constructor(props) {
+        super(props);
+        this.state = {
+            email: '',
+            name: '',
+            message: ''
+        };
+
+
+        this.onChange = this.onChange.bind(this);
+        this.onSubmit = this.onSubmit.bind(this);
     }
     onChange(e) {
-        this.setState(...state, { [e.target.name]: e.target.vaule });
+        this.setState({ [e.target.name]: e.target.vaule });
     }
     onSubmit(e) {
         e.preventDefault();
 
-        let submit = {
+        const submit = {
             fullname: this.state.name,
             email: this.state.email,
             message: this.state.message
         }
     };
-    render() {
-        // let submitItems = this.props.submit.map((submit, i) => (
-        //     <div key={i}>
-        //     </div>
-        // ));
 
-        return (
-            <tbody>
+    componentWillMount() {
+        this.props.Submit();
+
+
+        render(); {
+            return (
                 <form onSubmit={this.onSubmit}>
                     <h1>Contact Us</h1>
                     <div className="form-group">
@@ -69,26 +72,15 @@ class Submit extends React.Component {
                         <button type="submit">Submit</button>
                     </div>
                 </form>
-            </tbody>
-        );
-    };
-}
-
-//keep just in case
-
-Submit.propTypes = {
-    fetchSubmit: PropTypes.func.isRequired,
-    Submit: PropTypes.array.isRequired
+            );
+        }
+    }
 };
 
-const mapStateToProps = state => ({
-    Submit: state.submit.items,
-    newSubmit: state.Submit.items
+Submit.propTypes = {
+    Submit: PropTypes.func.isRequired,
 
-});
+};
 
-const mapDispatchToProps = dispatch => {
-    return dispatch;
-}
+export default connect(null, { createSubmit })(Submit);
 
-export default connect(mapStateToProps, mapDispatchToProps)(Submit);
