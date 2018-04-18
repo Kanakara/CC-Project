@@ -5784,7 +5784,11 @@
       ]
     },
     "Microsoft.CodeAnalysis.Analyzers/1.1.0": {
+<<<<<<< HEAD
       "sha512": "HS3iRWZKcUw/8eZ/08GXKY2Bn7xNzQPzf8gRPHGSowX7u7XXu9i9YEaBeBNKUXWfI7qjvT2zXtLUvbN0hds8vg==",
+=======
+      "sha512": "IbyNhonJSYbJlPfUYLDHfKJxZgCCb5UFKdFUJXX49Kug98AlXw3i48hK8OK/6L9cYHRtMp3O0TlmpllUkVMOaA==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "microsoft.codeanalysis.analyzers/1.1.0",
       "files": [
@@ -7267,7 +7271,11 @@
       ]
     },
     "Microsoft.NETCore.Targets/1.1.0": {
+<<<<<<< HEAD
       "sha512": "aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
+=======
+      "sha512": "I9WdgkjeWRrQ56cTmGAcB52HYfMUfPgtwmHUIVxedY89i/M5oxUAShi7aM3ulpOw7gWqmmi9wprgVLMHT1ZTvQ==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "microsoft.netcore.targets/1.1.0",
       "files": [
@@ -7321,7 +7329,11 @@
       ]
     },
     "Microsoft.Win32.Primitives/4.3.0": {
+<<<<<<< HEAD
       "sha512": "9ZQKCWxH7Ijp9BfahvL2Zyf1cJIk8XYLF6Yjzr2yi0b2cOut/HQ31qf1ThHAgCc3WiZMdnWcfJCgN82/0UunxA==",
+=======
+      "sha512": "32bcf2vSx7mdYjzBpSU/XPLVEO+CjChVXnysDTm8ccA7DSJcY8TQQVo3wvhFOf9zQaiW/58dvHS0+UCjZe2ncA==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "microsoft.win32.primitives/4.3.0",
       "files": [
@@ -7560,7 +7572,11 @@
       ]
     },
     "Remotion.Linq/2.1.1": {
+<<<<<<< HEAD
       "sha512": "IJn0BqkvwEDpP+2qjvci7n4/a9f7DhKESLWb2/uG4xQh3rTkGTBUz69bI4IivCoKkTFAqjXxYDZw2K/npohjsw==",
+=======
+      "sha512": "kpd4rU6aJNpKq98IvpYwdqMNgrQi5k7zE6xtxKS8AabMromPYo5LMP+gagvvzQVd613D/6dCGxxAuG6vm3ZW6Q==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "remotion.linq/2.1.1",
       "files": [
@@ -7579,7 +7595,11 @@
       ]
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
+<<<<<<< HEAD
       "sha512": "HdSSp5MnJSsg08KMfZThpuLPJpPwE5hBXvHwoKWosyHHfe8Mh5WKT0ylEOf6yNzX6Ngjxe4Whkafh5q7Ymac4Q==",
+=======
+      "sha512": "eczo55kuN/YCVMpmdC6burrDUXZnjFom+k58kNgmRWSBMZb+4U0dcNyxzOTxYuSPB61k7qqZuV6PVogfOsVm8g==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7591,7 +7611,11 @@
       ]
     },
     "runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
+<<<<<<< HEAD
       "sha512": "+yH1a49wJMy8Zt4yx5RhJrxO/DBDByAiCzNwiETI+1S4mPdCu0OY4djdciC7Vssk0l22wQaDLrXxXkp+3+7bVA==",
+=======
+      "sha512": "VVHI/wdsi8Cl9wjARJcH0bqvWkS6nQzP+AmSLGRvPERBDqYfCEovnPfPExEjib5by8Ik43CqxBmrki+RPACDPA==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7603,7 +7627,11 @@
       ]
     },
     "runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
+<<<<<<< HEAD
       "sha512": "c3YNH1GQJbfIPJeCnr4avseugSqPrxwIqzthYyZDN6EuOyNOzq+y2KSUfRcXauya1sF4foESTgwM5e1A8arAKw==",
+=======
+      "sha512": "X7xvcsPeXvCi2+iJ1XF43Zu0Ulv1PQ3Gesdadnpnw/CyoFvbFilfP4phOcgpXULdbJkSSMApJPe2trBQse8CqQ==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7615,7 +7643,11 @@
       ]
     },
     "runtime.native.System/4.3.0": {
+<<<<<<< HEAD
       "sha512": "c/qWt2LieNZIj1jGnVNsE2Kl23Ya2aSTBuXMD6V7k9KWr6l16Tqdwq+hJScEpWER9753NWC8h96PaVNY5Ld7Jw==",
+=======
+      "sha512": "9ti3w7c3ZXw7Kg70l80G4QD1JcTtIkcSDLSDaF/meYXK9nBPdmRINCe111kYitBP8hdtsAXIBL5n63atL+/LYQ==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "runtime.native.system/4.3.0",
       "files": [
@@ -7640,7 +7672,11 @@
       ]
     },
     "runtime.native.System.IO.Compression/4.3.0": {
+<<<<<<< HEAD
       "sha512": "INBPonS5QPEgn7naufQFXJEp3zX6L4bwHgJ/ZH78aBTpeNfQMtf7C6VrAFhlq2xxWBveIOWyFzQjJ8XzHMhdOQ==",
+=======
+      "sha512": "jZHVlzERi8Q2ztM31nLaT+Re/yBT34w06Qr3wCS0i8ssEuOha6dELo5MHe2H9/PcxK3yLR3ysYN00LhvvwOL1w==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "runtime.native.system.io.compression/4.3.0",
       "files": [
@@ -7652,7 +7688,11 @@
       ]
     },
     "runtime.native.System.Net.Http/4.3.0": {
+<<<<<<< HEAD
       "sha512": "ZVuZJqnnegJhd2k/PtAbbIcZ3aZeITq3sj06oKfMBSfphW3HDmk/t4ObvbOk/JA/swGR0LNqMksAh/f7gpTROg==",
+=======
+      "sha512": "5uP+/Jvbj9vnbHJkI5dXRw42peq7A7kJv0Dw1Nszt7El+IPuy1L6g+WipMPub88rqHVXxrselDl+S2JM0Swciw==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "runtime.native.system.net.http/4.3.0",
       "files": [
@@ -7676,7 +7716,11 @@
       ]
     },
     "runtime.native.System.Security.Cryptography.Apple/4.3.0": {
+<<<<<<< HEAD
       "sha512": "DloMk88juo0OuOWr56QG7MNchmafTLYWvABy36izkrLI5VledI0rq28KGs1i9wbpeT9NPQrx/wTf8U2vazqQ3Q==",
+=======
+      "sha512": "/zitYEqvdiNHni8KgRmmUGhteLyfggEtzaQueZmZ6N1U7NRaZyv6zj2x6MZaxJX+hYbRiVpGgbKDrB17wxCiaA==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "runtime.native.system.security.cryptography.apple/4.3.0",
       "files": [
@@ -7688,7 +7732,11 @@
       ]
     },
     "runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
+<<<<<<< HEAD
       "sha512": "NS1U+700m4KFRHR5o4vo9DSlTmlCKu/u7dtE5sUHVIPB+xpXxYQvgBgA6wEIeCz6Yfn0Z52/72WYsToCEPJnrw==",
+=======
+      "sha512": "/V8HsxXoBcRcesR8aMEBGVltFRrqZM3149dgqNUKPpHM0vv0+kT94JaO87nR4gRVoBIE3PhPHGI7tXjaNgaRqA==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7700,7 +7748,11 @@
       ]
     },
     "runtime.opensuse.13.2-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
+<<<<<<< HEAD
       "sha512": "b3pthNgxxFcD+Pc0WSEoC0+md3MyhRS6aCEeenvNE3Fdw1HyJ18ZhRFVJJzIeR/O/jpxPboB805Ho0T3Ul7w8A==",
+=======
+      "sha512": "23J/xp/zhAreWD+NtxDENRAt0QAjLTb3Kwr2bDjhdKavgG4CgGrdquZ5Du0S/9p6BAKW4zcqxt5hpE2TiAsQ1g==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "runtime.opensuse.13.2-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7712,7 +7764,11 @@
       ]
     },
     "runtime.opensuse.42.1-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
+<<<<<<< HEAD
       "sha512": "KeLz4HClKf+nFS7p/6Fi/CqyLXh81FpiGzcmuS8DGi9lUqSnZ6Es23/gv2O+1XVGfrbNmviF7CckBpavkBoIFQ==",
+=======
+      "sha512": "38hfiiO1NKeBeZ/PYHmcB7FYPY0LDmpi1wUT8UtSALwlx+pY8uKTo0C0TOnwVOG3dY1KmSfHlSEJBK6A0Uxx2Q==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "runtime.opensuse.42.1-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7724,7 +7780,11 @@
       ]
     },
     "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.Apple/4.3.0": {
+<<<<<<< HEAD
       "sha512": "kVXCuMTrTlxq4XOOMAysuNwsXWpYeboGddNGpIgNSZmv1b6r/s/DPk0fYMB7Q5Qo4bY68o48jt4T4y5BVecbCQ==",
+=======
+      "sha512": "6f/xAed1g6j/99f+7plC1ey+P41X9C2vSDnVHq9hekQI0yg8TdZk0S6nauUcBU9079TOvGpNQwlEcFtA9NZFrg==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple/4.3.0",
       "files": [
@@ -7736,7 +7796,11 @@
       ]
     },
     "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
+<<<<<<< HEAD
       "sha512": "X7IdhILzr4ROXd8mI1BUCQMSHSQwelUlBjF1JyTKCjXaOGn2fB4EKBxQbCK2VjO3WaWIdlXZL3W6TiIVnrhX4g==",
+=======
+      "sha512": "WS0sHJb/1xIGsLOvcaThYQ1VTdQs5C1O/1SGMiDrC2uJUSVMkOxNO0lHK6EPF0+celcjsxEuB1F7tGJMdAP4zA==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7748,7 +7812,11 @@
       ]
     },
     "runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
+<<<<<<< HEAD
       "sha512": "nyFNiCk/r+VOiIqreLix8yN+q3Wga9+SE8BCgkf+2BwEKiNx6DyvFjCgkfV743/grxv8jHJ8gUK4XEQw7yzRYg==",
+=======
+      "sha512": "A+4xuETTukIVnkO4pwbD93gb+uGhVW0I/QLYHW/IynJkE/2XLM9JqnT1pixfEd4vxEv7lAoEBQtrreM059caKA==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7760,7 +7828,11 @@
       ]
     },
     "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
+<<<<<<< HEAD
       "sha512": "ytoewC6wGorL7KoCAvRfsgoJPJbNq+64k2SqW6JcOAebWsFUvCCYgfzQMrnpvPiEl4OrblUlhF2ji+Q1+SVLrQ==",
+=======
+      "sha512": "/8bEiadk0o1skquD2LCCZUumjds5hhWzx1K/shpd0F7HIyuW/+CHrMdCbkmK8/vfAFqxqglvDGeNGArSx+fX5A==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7772,7 +7844,11 @@
       ]
     },
     "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
+<<<<<<< HEAD
       "sha512": "I8bKw2I8k58Wx7fMKQJn2R8lamboCAiHfHeV/pS65ScKWMMI0+wJkLYlEKvgW1D/XvSl/221clBoR2q9QNNM7A==",
+=======
+      "sha512": "M2U7NDQzBAhGx/VHBmPa66MiO6vG7p5yGCkL69LuK2V/bHpUS0PHF1o4HJoSxoEg6/4r3LMXEHRw6tcZ/RpwXQ==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7784,7 +7860,11 @@
       ]
     },
     "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
+<<<<<<< HEAD
       "sha512": "VB5cn/7OzUfzdnC8tqAIMQciVLiq2epm2NrAm1E9OjNRyG4lVhfR61SMcLizejzQP8R8Uf/0l5qOIbUEi+RdEg==",
+=======
+      "sha512": "F+islML3Kzz2UyRcGcUSl32pq44Iv4GLpnNC8l8y+Q7HZ2pfo+GUg8jfoA88hznRHOoQhrflXIX1LRjcATxiBg==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7976,7 +8056,11 @@
       ]
     },
     "System.AppContext/4.3.0": {
+<<<<<<< HEAD
       "sha512": "fKC+rmaLfeIzUhagxY17Q9siv/sPrjjKcfNg1Ic8IlQkZLipo8ljcaZQu4VtI4Jqbzjc2VTjzGLF6WmsRXAEgA==",
+=======
+      "sha512": "u0opwGxt4aPoZ0cCL5nxvjlUCBHe+Ik7Io9VDYIGE3uuzAYoxLFQZQUeMFUv523ooDFLpqd3UyqYwraLQQxxLg==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.appcontext/4.3.0",
       "files": [
@@ -8052,7 +8136,11 @@
       ]
     },
     "System.Collections/4.3.0": {
+<<<<<<< HEAD
       "sha512": "3Dcj85/TBdVpL5Zr+gEEBUuFe2icOnLalmEh9hfck1PTYbbyWuZgh4fmm2ysCLTrqLQw6t3TgTyJ+VLp+Qb+Lw==",
+=======
+      "sha512": "bFbHTrcVvqQPWPoHhZUSr0e/2oQf8epEW2dlbibQhYC0ouVq7uFYPadx4CkQGANQRdZ/lKvKGCpGu4QhtRTgHg==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.collections/4.3.0",
       "files": [
@@ -8118,7 +8206,11 @@
       ]
     },
     "System.Collections.Concurrent/4.3.0": {
+<<<<<<< HEAD
       "sha512": "ztl69Xp0Y/UXCL+3v3tEU+lIy+bvjKNUmopn1wep/a291pVPK7dxBd6T7WnlQqRog+d1a/hSsgRsmFnIBKTPLQ==",
+=======
+      "sha512": "qePO3fwZVjpOfjr2rTJsvhc45SUzyc9M9oK3NmvpG3fNT140l//7SSJLKmTgBhudi47QM+ajpQCyuE+DjLQg5g==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.collections.concurrent/4.3.0",
       "files": [
@@ -8205,7 +8297,11 @@
       ]
     },
     "System.Collections.NonGeneric/4.3.0": {
+<<<<<<< HEAD
       "sha512": "prtjIEMhGUnQq6RnPEYLpFt8AtLbp9yq2zxOSrY7KJJZrw25Fi97IzBqY7iqssbM61Ek5b8f3MG/sG1N2sN5KA==",
+=======
+      "sha512": "9PtPsk4iU9ZDSmxWGs1xniZ2d+/asj3kaSRCc6TevbU80822BI0+B8+6IBlg84lFQSPu1gVPgh5w9HHheFDo2g==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.collections.nongeneric/4.3.0",
       "files": [
@@ -8242,7 +8338,11 @@
       ]
     },
     "System.Collections.Specialized/4.3.0": {
+<<<<<<< HEAD
       "sha512": "Epx8PoVZR0iuOnJJDzp7pWvdfMMOAvpUo95pC4ScH2mJuXkKA2Y4aR3cG9qt2klHgSons1WFh4kcGW7cSXvrxg==",
+=======
+      "sha512": "QEw09xmqBUy3reLujYZwbC8paQPBdKgGJ9sWeAdrCJpbjfC4Nf43C3eJty0oksoJZ7+bo3Opb7rhISBfv9OJTA==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.collections.specialized/4.3.0",
       "files": [
@@ -8279,7 +8379,11 @@
       ]
     },
     "System.ComponentModel/4.3.0": {
+<<<<<<< HEAD
       "sha512": "VyGn1jGRZVfxnh8EdvDCi71v3bMXrsu8aYJOwoV7SNDLVhiEqwP86pPMyRGsDsxhXAm2b3o9OIqeETfN5qfezw==",
+=======
+      "sha512": "uwZX4E3bitjbFo87Hy24ys7WKuAcXdrzUC3Hubo5Iy0LpCNKfLKP3oZAoO+H4ZFq/QUclLh5QidsHzcMC/lckQ==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.componentmodel/4.3.0",
       "files": [
@@ -8421,7 +8525,11 @@
       ]
     },
     "System.ComponentModel.Primitives/4.3.0": {
+<<<<<<< HEAD
       "sha512": "j8GUkCpM8V4d4vhLIIoBLGey2Z5bCkMVNjEZseyAlm4n5arcsJOeI3zkUP+zvZgzsbLTYh4lYeP/ZD/gdIAPrw==",
+=======
+      "sha512": "MEBY6X+ECs+aBO65osfXZf02ErOp4LcVLykZld4AgqNQoyM0w51yDoxXlcAwPdHydIBGzIcDgkwkjTPu9KzUSw==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.componentmodel.primitives/4.3.0",
       "files": [
@@ -8458,7 +8566,11 @@
       ]
     },
     "System.ComponentModel.TypeConverter/4.3.0": {
+<<<<<<< HEAD
       "sha512": "16pQ6P+EdhcXzPiEK4kbA953Fu0MNG2ovxTZU81/qsCd1zPRsKc3uif5NgvllCY598k6bI0KUyKW8fanlfaDQg==",
+=======
+      "sha512": "oyEJKqWNihFZizG9Z1YwRIcaAkhDmh6fwZcFkoGsgM+AYclBu+3dd+2i5SI5MxpWmmAr2qEuQ3EGwgj/c56ASw==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.componentmodel.typeconverter/4.3.0",
       "files": [
@@ -8509,7 +8621,11 @@
       ]
     },
     "System.Console/4.3.0": {
+<<<<<<< HEAD
       "sha512": "DHDrIxiqk1h03m6khKWV2X8p/uvN79rgSqpilL6uzpmSfxfU5ng8VcPtW4qsDsQDHiTv6IPV9TmD5M/vElPNLg==",
+=======
+      "sha512": "wIWUG0GvC8iRcNSL9UIvQYalTRvk+Td8Wy9P7y/8wtJgINvQ9vgVxq2B3sy21j+s4hQdySkMAsHlqycYcf7a8Q==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.console/4.3.0",
       "files": [
@@ -8611,7 +8727,11 @@
       ]
     },
     "System.Diagnostics.Contracts/4.3.0": {
+<<<<<<< HEAD
       "sha512": "eelRRbnm+OloiQvp9CXS0ixjNQldjjkHO4iIkR5XH2VIP8sUB/SIpa1TdUW6/+HDcQ+MlhP3pNa1u5SbzYuWGA==",
+=======
+      "sha512": "4yrXe8nJLxYHMpiCTkBTgtvnRUh8tM+J4G/qPP26HqjsswJ35Uc5Rz2nuz+8DKxSr5ds73JzgcRRt7vklVTSJg==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.diagnostics.contracts/4.3.0",
       "files": [
@@ -8669,7 +8789,11 @@
       ]
     },
     "System.Diagnostics.Debug/4.3.0": {
+<<<<<<< HEAD
       "sha512": "ZUhUOdqmaG5Jk3Xdb8xi5kIyQYAA4PnTNlHx1mu9ZY3qv4ELIdKbnL/akbGaKi2RnNUWaZsAs31rvzFdewTj2g==",
+=======
+      "sha512": "fL1PMkayZnW4dfx+zfNybhl2oxJQcO+WnsAypK44lzZxlOGRmWQfpo3ZGflEWqNIPHJAvs2gHnIVjD+LWghF6A==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.diagnostics.debug/4.3.0",
       "files": [
@@ -8838,7 +8962,11 @@
       ]
     },
     "System.Diagnostics.Tools/4.3.0": {
+<<<<<<< HEAD
       "sha512": "UUvkJfSYJMM6x527dJg2VyWPSRqIVB0Z7dbjHst1zmwTXz5CcXSYJFWRpuigfbO1Lf7yfZiIaEUesfnl/g5EyA==",
+=======
+      "sha512": "ozG4fEUGAENu3Iq5693f3BM1p4Uf7zFK4ZZLkQs661k5ePr5DdB1K3wV6h1y7+UqZ0igpR2Yb9YnkP5wVf6FCA==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.diagnostics.tools/4.3.0",
       "files": [
@@ -8893,7 +9021,11 @@
       ]
     },
     "System.Diagnostics.Tracing/4.3.0": {
+<<<<<<< HEAD
       "sha512": "rswfv0f/Cqkh78rA5S8eN8Neocz234+emGCtTF3lxPY96F+mmmUen6tbn0glN6PMvlKQb9bPAY5e9u7fgPTkKw==",
+=======
+      "sha512": "tJql6453iJ2eJ8oTIdQd2LDaaP8KkklmjnxPF59BsHhFf9wEpTaOX6bqyWa99XheJgL/ezMEkQkKs/8+0aEDbQ==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.diagnostics.tracing/4.3.0",
       "files": [
@@ -9050,7 +9182,11 @@
       ]
     },
     "System.Globalization/4.3.0": {
+<<<<<<< HEAD
       "sha512": "kYdVd2f2PAdFGblzFswE4hkNANJBKRmsfa2X5LG2AcWE1c7/4t0pYae1L8vfZ5xvE2nK/R9JprtToA61OSHWIg==",
+=======
+      "sha512": "Yrwq4NGA0/ApwbIXd3sDbbrg+xIq8hjv4gCQVXeAFp307qtpJKhXtR4CVoWzjZ2ifKP1rY/RC1OaJalOWDdpEg==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.globalization/4.3.0",
       "files": [
@@ -9116,7 +9252,11 @@
       ]
     },
     "System.Globalization.Calendars/4.3.0": {
+<<<<<<< HEAD
       "sha512": "GUlBtdOWT4LTV3I+9/PJW+56AnnChTaOqqTLFtdmype/L500M2LIyXgmtd9X2P2VOkmJd5c67H5SaC2QcL1bFA==",
+=======
+      "sha512": "uZo6V0drntOIlD9rF/PmlUf49q3iBlgpf6ZOFHOtdvg7ZrZFHBkHU4XFE1Rrkqkl18/8wH+61AZJPb0Q/3Yskw==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.globalization.calendars/4.3.0",
       "files": [
@@ -9152,7 +9292,11 @@
       ]
     },
     "System.Globalization.Extensions/4.3.0": {
+<<<<<<< HEAD
       "sha512": "FhKmdR6MPG+pxow6wGtNAWdZh7noIOpdD5TwQ3CprzgIE1bBBoim0vbR1+AWsWjQmU7zXHgQo4TWSP6lCeiWcQ==",
+=======
+      "sha512": "tj4VhkiR5ORb8RA1k3s+iuWx2Jvcx3LXnMd/uHxN3VTFqRiR2JfLcagrblkkr/0rddW8zIPWezaSurWXKF6zLw==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.globalization.extensions/4.3.0",
       "files": [
@@ -9223,7 +9367,11 @@
       ]
     },
     "System.IO/4.3.0": {
+<<<<<<< HEAD
       "sha512": "3qjaHvxQPDpSOYICjUoTsmoq5u6QJAFRUITgeT/4gqkF1bajbSmb1kwSxEA8AHlofqgcKJcM8udgieRNhaJ5Cg==",
+=======
+      "sha512": "GRCIJCSrvsDEgT2Rk8o/zIC8g6rcv4HCs/pmcn1Uc8D5qP7rvgMXrZsOJB0Ir2Cq7RKjPQVv1iIEN0T0Dncd0Q==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.io/4.3.0",
       "files": [
@@ -9302,7 +9450,11 @@
       ]
     },
     "System.IO.Compression/4.3.0": {
+<<<<<<< HEAD
       "sha512": "YHndyoiV90iu4iKG115ibkhrG+S3jBm8Ap9OwoUAzO5oPDAWcr0SFwQFm0HjM8WkEZWo0zvLTyLmbvTkW1bXgg==",
+=======
+      "sha512": "iXtaiU8CaqVMGcQ60u8rO0TyUikY2+5gRWt64zKf83ouo+4kDTEy7BmuaQp9UpfoUxiTxDzX93Dmh5zYISUoMA==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.io.compression/4.3.0",
       "files": [
@@ -9371,7 +9523,11 @@
       ]
     },
     "System.IO.FileSystem/4.3.0": {
+<<<<<<< HEAD
       "sha512": "3wEMARTnuio+ulnvi+hkRNROYwa1kylvYahhcLk4HSoVdl+xxTFVeVlYOfLwrDPImGls0mDqbMhrza8qnWPTdA==",
+=======
+      "sha512": "c6w93yJvNYkPtD1BRRVumLwCkB6FLcDzAgumPUmhquSwtkUHvKd9rOt3aDnIhNTCq1KI1Pl8FEeiDYp2vPqNrw==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.io.filesystem/4.3.0",
       "files": [
@@ -9407,7 +9563,11 @@
       ]
     },
     "System.IO.FileSystem.Primitives/4.3.0": {
+<<<<<<< HEAD
       "sha512": "6QOb2XFLch7bEc4lIcJH49nJN2HV+OC3fHDgsLVsBVBk3Y4hFAnOBGzJ2lUu7CyDDFo9IBWkSsnbkT6IBwwiMw==",
+=======
+      "sha512": "A0rwgmrqW4YlbMQ/P/bjhQgpk4lKAzRGIi31BVxHRivxnqIZfmfkbfnzGlbR9pReFkPvdCRBUF9pEMBIcQmgaQ==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.io.filesystem.primitives/4.3.0",
       "files": [
@@ -9444,7 +9604,11 @@
       ]
     },
     "System.Linq/4.3.0": {
+<<<<<<< HEAD
       "sha512": "5DbqIUpsDp0dFftytzuMmc0oeMdQwjcP/EWxsksIz/w1TcFRkZ3yKKz0PqiYFMmEwPSWw+qNVqD7PJ889JzHbw==",
+=======
+      "sha512": "zFDuuBeUaK0hToGAoq87pWRShZB+F6BcJ5Si3R2gaZ+YG22eW+IzA1fyHaPVip5IE3wYTeg0cY1HFRhc6c5snA==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.linq/4.3.0",
       "files": [
@@ -9514,7 +9678,11 @@
       ]
     },
     "System.Linq.Expressions/4.3.0": {
+<<<<<<< HEAD
       "sha512": "PGKkrd2khG4CnlyJwxwwaWWiSiWFNBGlgXvJpeO0xCXrZ89ODrQ6tjEWS/kOqZ8GwEOUATtKtzp1eRgmYNfclg==",
+=======
+      "sha512": "N2gy8SV+jExE8W5zF9K+XNK2uH0M4IBBE05iw9jjwc7cjP6S6GFn1eEm0lvCcBpxXCf1ucZKwLGex9vHEAEchA==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.linq.expressions/4.3.0",
       "files": [
@@ -9596,7 +9764,11 @@
       ]
     },
     "System.Linq.Queryable/4.0.1": {
+<<<<<<< HEAD
       "sha512": "Yn/WfYe9RoRfmSLvUt2JerP0BTGGykCZkQPgojaxgzF2N0oPo+/AhB8TXOpdCcNlrG3VRtsamtK2uzsp3cqRVw==",
+=======
+      "sha512": "tZSJzzGDNDFT1aXMrKht5vMJEYgXAOqblW3ExApJZKeTO/DobuWNxoVulBNG8wIRY16HpdxzhzvZLbhuqv1YHw==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.linq.queryable/4.0.1",
       "files": [
@@ -9653,7 +9825,11 @@
       ]
     },
     "System.Net.Http/4.3.0": {
+<<<<<<< HEAD
       "sha512": "sYg+FtILtRQuYWSIAuNOELwVuVsxVyJGWQyOnlAzhV4xvhyFnON1bAzYYC+jjRW8JREM45R0R5Dgi8MTC5sEwA==",
+=======
+      "sha512": "BwrAe6EqFWsZWgHG7vZSzFYAlMyok0kIo7Slrl0dwAYPGZP7J9SdufkqVQm9pySQw+P/OhW2f9zXSpvMoZywRw==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.net.http/4.3.0",
       "files": [
@@ -9773,7 +9949,11 @@
       ]
     },
     "System.Net.Primitives/4.3.0": {
+<<<<<<< HEAD
       "sha512": "qOu+hDwFwoZPbzPvwut2qATe3ygjeQBDQj91xlsaqGFQUI5i4ZnZb8yyQuLGpDGivEPIt8EJkd1BVzVoP31FXA==",
+=======
+      "sha512": "TNFS9v4D+ZjWeXqwAgH0Dcm4FJqcmtsLgobxWY8d50ztvtzopPe6T+aV64mxkiTXGommRH+1riwMXehJ2/vr5A==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.net.primitives/4.3.0",
       "files": [
@@ -9890,7 +10070,11 @@
       ]
     },
     "System.Net.Sockets/4.3.0": {
+<<<<<<< HEAD
       "sha512": "m6icV6TqQOAdgt5N/9I5KNpjom/5NFtkmGseEH+AK/hny8XrytLH3+b5M8zL/Ycg3fhIocFpUMyl/wpFnVRvdw==",
+=======
+      "sha512": "P2YqrH0R/q+AeHgM2igE97kVmsdxqrrz3BTwwwIgbM9BczVKPYiGiCr8o5hjLRxfDkmysP5mCqTctUh/awKe7g==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.net.sockets/4.3.0",
       "files": [
@@ -9967,7 +10151,11 @@
       ]
     },
     "System.ObjectModel/4.3.0": {
+<<<<<<< HEAD
       "sha512": "bdX+80eKv9bN6K4N+d77OankKHGn6CH711a6fcOpMQu2Fckp/Ft4L/kW9WznHpyR0NRAvJutzOMHNNlBGvxQzQ==",
+=======
+      "sha512": "i4ohgF4JwskUkgflfAwa+ZMLmat7d5nkjThD1tHAm6kxZ4/vMZrIqC2yBx1CJiRyiPJ7faDBoRhBMyDus21wpA==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.objectmodel/4.3.0",
       "files": [
@@ -10035,7 +10223,11 @@
       ]
     },
     "System.Private.DataContractSerialization/4.1.1": {
+<<<<<<< HEAD
       "sha512": "lcqFBUaCZxPiUkA4dlSOoPZGtZsAuuElH2XHgLwGLxd7ZozWetV5yiz0qGAV2AUYOqw97MtZBjbLMN16Xz4vXA==",
+=======
+      "sha512": "ciBSIXf3YUt0cSGFZpB0dWu525KvlnVvpKcbKYUrpvfaVcSsHLHyZ1UCCMt0/S5kUr6AQzq37OtRKm38bcTC2Q==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.private.datacontractserialization/4.1.1",
       "files": [
@@ -10049,7 +10241,11 @@
       ]
     },
     "System.Reflection/4.3.0": {
+<<<<<<< HEAD
       "sha512": "KMiAFoW7MfJGa9nDFNcfu+FpEdiHpWgTcS2HdMpDvt9saK3y/G4GwprPyzqjFH9NTaGPQeWNHU+iDlDILj96aQ==",
+=======
+      "sha512": "YD7d8xAfBQrI7GLrNx3BImpvUJGl4Kx6yrjjwu/qht9DwPwR2e77Bg3PDe+Qfwn5Ced2xyursekE4l8QL2XRBw==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.reflection/4.3.0",
       "files": [
@@ -10128,7 +10324,11 @@
       ]
     },
     "System.Reflection.Emit/4.3.0": {
+<<<<<<< HEAD
       "sha512": "228FG0jLcIwTVJyz8CLFKueVqQK36ANazUManGaJHkO0icjiIypKW7YLWLIWahyIkdh5M7mV2dJepllLyA1SKg==",
+=======
+      "sha512": "DcuKRSEutlHco5h/maL0iw63hqbfZsm4MMQtBn+Vu9QlP1NNnfhxLox1JYGWFuHpYQxb4LFGvxL3z58LnNE5pQ==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.reflection.emit/4.3.0",
       "files": [
@@ -10162,7 +10362,11 @@
       ]
     },
     "System.Reflection.Emit.ILGeneration/4.3.0": {
+<<<<<<< HEAD
       "sha512": "59tBslAk9733NXLrUJrwNZEzbMAcu8k344OYo+wfSVygcgZ9lgBdGIzH/nrg3LYhXceynyvTc8t5/GD4Ri0/ng==",
+=======
+      "sha512": "sLpKVtrmcdmJ/ZBc+7VEE8/y4no+uLLbIAcEHo5J6tQLMASe3/o7P6zbFQZr7M6kbuE1gwg31CbVzCaAYpywVg==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.reflection.emit.ilgeneration/4.3.0",
       "files": [
@@ -10205,7 +10409,11 @@
       ]
     },
     "System.Reflection.Emit.Lightweight/4.3.0": {
+<<<<<<< HEAD
       "sha512": "oadVHGSMsTmZsAF864QYN1t1QzZjIcuKU3l2S9cZOwDdDueNTrqq1yRj7koFfIGEnKpt6NjpL3rOzRhs4ryOgA==",
+=======
+      "sha512": "t4VWnv/VRWkG4CZC4iYf8qMDm06sO73GjTC2bk42UiXcwOsVgOi15++hy6GHTxUHuPmyeWAr4HkPHXg5vW5QeA==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.reflection.emit.lightweight/4.3.0",
       "files": [
@@ -10248,7 +10456,11 @@
       ]
     },
     "System.Reflection.Extensions/4.3.0": {
+<<<<<<< HEAD
       "sha512": "rJkrJD3kBI5B712aRu4DpSIiHRtr6QlfZSQsb0hYHrDCZORXCFjQfoipo2LaMUHoT9i1B7j7MnfaEKWDFmFQNQ==",
+=======
+      "sha512": "iPeuWahhUfCmnYli1UVK7uarMlB5bxYQOUVN1r3qPUzlOJjI+Iii/gi/BL/I+5jDf/CBYOLQ9oGsPO09S4YIwA==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.reflection.extensions/4.3.0",
       "files": [
@@ -10324,7 +10536,11 @@
       ]
     },
     "System.Reflection.Primitives/4.3.0": {
+<<<<<<< HEAD
       "sha512": "5RXItQz5As4xN2/YUDxdpsEkMhvw3e6aNveFXUn4Hl/udNTCNhnKp8lT9fnc3MhvGKh1baak5CovpuQUXHAlIA==",
+=======
+      "sha512": "b71veHSRJxxiVriu6/pU+1sE6cKDPBZC1Z1fJT0l9l525MP8+w/M5RaRRjuXDr5/S3v6Z9W+JwAB/z+GMIruCw==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.reflection.primitives/4.3.0",
       "files": [
@@ -10379,7 +10595,11 @@
       ]
     },
     "System.Reflection.TypeExtensions/4.3.0": {
+<<<<<<< HEAD
       "sha512": "7u6ulLcZbyxB5Gq0nMkQttcdBTx57ibzw+4IOXEfR+sXYQoHvjW5LTLyNr8O22UIMrqYbchJQJnos4eooYzYJA==",
+=======
+      "sha512": "UZA/SErAJf5ziK8l4qhF4MsRV6ephu54O5wzEZVdR/SKtFfsOnNl0iLHX4N5DX9R1pIjkeNENrRnt3mEI04suA==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.reflection.typeextensions/4.3.0",
       "files": [
@@ -10431,7 +10651,11 @@
       ]
     },
     "System.Resources.ResourceManager/4.3.0": {
+<<<<<<< HEAD
       "sha512": "/zrcPkkWdZmI4F92gL/TPumP98AVDu/Wxr3CSJGQQ+XN6wbRZcyfSKVoPo17ilb3iOr0cCRqJInGwNMolqhS8A==",
+=======
+      "sha512": "m4QOw/nq+EDlLqS3VRPnogbiLac1jpAw6fUmziEUBKQvebE/HT2MtDh1g56Bm7tsnWCx5tC6vq4pVLtRwOTKfA==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.resources.resourcemanager/4.3.0",
       "files": [
@@ -10486,7 +10710,11 @@
       ]
     },
     "System.Runtime/4.3.0": {
+<<<<<<< HEAD
       "sha512": "JufQi0vPQ0xGnAczR13AUFglDyVYt4Kqnz1AZaiKZ5+GICq0/1MH/mO/eAJHt/mHW1zjKBJd7kV26SrxddAhiw==",
+=======
+      "sha512": "ZZbiPStyoW3LA7bDLplBKXr9frn7oYPr/bOZjBdGP4rqScaputfUlXYJMjeXmtGRRVVzlZHOU2EAyYYKAOaAlA==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.runtime/4.3.0",
       "files": [
@@ -10597,7 +10825,11 @@
       ]
     },
     "System.Runtime.Extensions/4.3.0": {
+<<<<<<< HEAD
       "sha512": "guW0uK0fn5fcJJ1tJVXYd7/1h5F+pea1r7FLSOz/f8vPEqbR2ZAknuRDvTQ8PzAilDveOxNjSfr0CHfIQfFk8g==",
+=======
+      "sha512": "9NKnsTK/pP4g4iUtIbamogjxwehKzDMHMm0X2dLPz7YMXIlI8Hhn2VJ5/rTfzEt7GfqPhDe17eoVcsbyuhkdcA==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.runtime.extensions/4.3.0",
       "files": [
@@ -10676,7 +10908,11 @@
       ]
     },
     "System.Runtime.Handles/4.3.0": {
+<<<<<<< HEAD
       "sha512": "OKiSUN7DmTWeYb3l51A7EYaeNMnvxwE249YtZz7yooT4gOZhmTjIn48KgSsw2k2lYdLgTKNJw/ZIfSElwDRVgg==",
+=======
+      "sha512": "d9k0tykFIOSPaij+Hd8jCSiNkEK5rinTAcGXO6a5Lo1+KiLKVdhFA1MtWuZA88/sd80KqX0TCYdd6xdgCQFYYQ==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.runtime.handles/4.3.0",
       "files": [
@@ -10712,7 +10948,11 @@
       ]
     },
     "System.Runtime.InteropServices/4.3.0": {
+<<<<<<< HEAD
       "sha512": "uv1ynXqiMK8mp1GM3jDqPCFN66eJ5w5XNomaK2XD+TuCroNTLFGeZ+WCmBMcBDyTFKou3P6cR6J/QsaqDp7fGQ==",
+=======
+      "sha512": "GSRRU/BodDQ+nf7rMe4aj1XbYHvjCAYiQ8+KCzFx2lAN3/V3+PxQPnMTFfWYCtxZzDXr+CKF2TIyoCxcq83tIg==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.runtime.interopservices/4.3.0",
       "files": [
@@ -10803,7 +11043,11 @@
       ]
     },
     "System.Runtime.InteropServices.RuntimeInformation/4.3.0": {
+<<<<<<< HEAD
       "sha512": "cbz4YJMqRDR7oLeMRbdYv7mYzc++17lNhScCX0goO2XpGWdvAt60CGN+FHdePUEHCe/Jy9jUlvNAiNdM+7jsOw==",
+=======
+      "sha512": "7f4v++FgxVlmZIN5y2XM1o8A0j3p8oY4g6+FHlpdN0GgQ3kUM/ajkU0VNfaWwkEKXIhjKWIR3Ry+L9Q9Oomstg==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.runtime.interopservices.runtimeinformation/4.3.0",
       "files": [
@@ -10836,7 +11080,11 @@
       ]
     },
     "System.Runtime.Numerics/4.3.0": {
+<<<<<<< HEAD
       "sha512": "yMH+MfdzHjy17l2KESnPiF2dwq7T+xLnSJar7slyimAkUh/gTrS9/UQOtv7xarskJ2/XDSNvfLGOBQPjL7PaHQ==",
+=======
+      "sha512": "KajD26fNNbA2djHx9ENBgpgHM4JQBHGost5kQe8DlauWJ53RdDJIdCTfVWkGAZOsdfdmYtgZyQdm1BZLB9CxeQ==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.runtime.numerics/4.3.0",
       "files": [
@@ -11084,7 +11332,11 @@
       ]
     },
     "System.Security.Claims/4.3.0": {
+<<<<<<< HEAD
       "sha512": "P/+BR/2lnc4PNDHt/TPBAWHVMLMRHsyYZbU1NphW4HIWzCggz8mJbTQQ3MKljFE7LS3WagmVFuBgoLcFzYXlkA==",
+=======
+      "sha512": "EUf8VEDRKccpCyOH1XKPsT9/ulIRA/29iJ2lhwdVX+H3iAbN3PVradew1iTuHBcaWBmHl1bRF+aTaaP86eciKA==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.security.claims/4.3.0",
       "files": [
@@ -11121,7 +11373,11 @@
       ]
     },
     "System.Security.Cryptography.Algorithms/4.3.0": {
+<<<<<<< HEAD
       "sha512": "W1kd2Y8mYSCgc3ULTAZ0hOP2dSdG5YauTb1089T0/kRcN2MpSAW1izOFROrJgxSlMn3ArsgHXagigyi+ibhevg==",
+=======
+      "sha512": "MhIP1WUFJ//TCwIuRgrxHc+k5z3/wltuVbNGM+491Bdt+Y+yUE5d33Juj+tQfII0Fk1MhcXIxoCaeM9XodbpvQ==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.security.cryptography.algorithms/4.3.0",
       "files": [
@@ -11160,7 +11416,11 @@
       ]
     },
     "System.Security.Cryptography.Cng/4.3.0": {
+<<<<<<< HEAD
       "sha512": "03idZOqFlsKRL4W+LuCpJ6dBYDUWReug6lZjBa3uJWnk5sPCUXckocevTaUA8iT/MFSrY/2HXkOt753xQ/cf8g==",
+=======
+      "sha512": "DoVccVsiD5ZBEzFaVg1wUgRgDNz4xLxQVGlrs3/3f7fQHa693kyI1wO8z85SJcTcdBU5sY1Az3gjcNcLKEmwng==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.security.cryptography.cng/4.3.0",
       "files": [
@@ -11186,7 +11446,11 @@
       ]
     },
     "System.Security.Cryptography.Csp/4.3.0": {
+<<<<<<< HEAD
       "sha512": "X4s/FCkEUnRGnwR3aSfVIkldBmtURMhmexALNTwpjklzxWU7yjMk7GHLKOZTNkgnWnE0q7+BCf9N2LVRWxewaA==",
+=======
+      "sha512": "Wb5fuQM394pMxITyEakm5W8PSi2Ro5CT16RaEgkQdG30bDbECr5VtVN58dHqlGlPNggZ/slPS86A1JNTZuFFZg==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.security.cryptography.csp/4.3.0",
       "files": [
@@ -11216,7 +11480,11 @@
       ]
     },
     "System.Security.Cryptography.Encoding/4.3.0": {
+<<<<<<< HEAD
       "sha512": "1DEWjZZly9ae9C79vFwqaO5kaOlI5q+3/55ohmq/7dpDyDfc8lYe7YVxJUZ5MF/NtbkRjwFRo14yM4OEo9EmDw==",
+=======
+      "sha512": "STytsczTo6v4NuL6Y5MkMQj57AREdzOiKoD+63M5OMqsdlkue7xd4k7O+nO8LGvhoUGHUn5B8PXyTNu8zHbIxg==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.security.cryptography.encoding/4.3.0",
       "files": [
@@ -11255,7 +11523,11 @@
       ]
     },
     "System.Security.Cryptography.OpenSsl/4.3.0": {
+<<<<<<< HEAD
       "sha512": "h4CEgOgv5PKVF/HwaHzJRiVboL2THYCou97zpmhjghx5frc7fIvlkY1jL+lnIQyChrJDMNEXS6r7byGif8Cy4w==",
+=======
+      "sha512": "9HaTbj4fOzjkKvu93uXU7yTz2NQR8HxMvuGd0Ek5kHL1Y06gfNZQqg/0Zxz3x7DSAi0k41QUiugEbnLOYZS0Sg==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -11269,7 +11541,11 @@
       ]
     },
     "System.Security.Cryptography.Primitives/4.3.0": {
+<<<<<<< HEAD
       "sha512": "7bDIyVFNL/xKeFHjhobUAQqSpJq9YTOpbEs6mR233Et01STBMXNAc/V+BM6dwYGc95gVh/Zf+iVXWzj3mE8DWg==",
+=======
+      "sha512": "f01UfPigj6+FDyFVb2xaMjbV8rowFiNcvmIwazGD8+38m6WHh5Z1lT2vDVV6O09o0R/YxtiLCqVtA2KJc9yNcA==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.security.cryptography.primitives/4.3.0",
       "files": [
@@ -11296,7 +11572,11 @@
       ]
     },
     "System.Security.Cryptography.X509Certificates/4.3.0": {
+<<<<<<< HEAD
       "sha512": "t2Tmu6Y2NtJ2um0RtcuhP7ZdNNxXEgUm2JeoA/0NvlMjAhKCnM1NX07TDl3244mVp3QU6LPEhT3HTtH1uF7IYw==",
+=======
+      "sha512": "Nik0cOolgWwFsIfJ+43jElAOhNMfJyTX4sXjI5apObDRPruDnIhiRI2vrsbjr5Ko2xa3T6j9N+uKbIoLEuFAXg==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.security.cryptography.x509certificates/4.3.0",
       "files": [
@@ -11369,7 +11649,11 @@
       ]
     },
     "System.Security.Principal/4.3.0": {
+<<<<<<< HEAD
       "sha512": "I1tkfQlAoMM2URscUtpcRo/hX0jinXx6a/KUtEQoz3owaYwl3qwsO8cbzYVVnjxrzxjHo3nJC+62uolgeGIS9A==",
+=======
+      "sha512": "vRdsbMF0dF9EJ1m8kC6eiRAQGlUwgQqaZjxC+EZqK1FCosucaw/QuU+I3muYyegrm3eiSoJ/hiUEvbhxX2OyUQ==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.security.principal/4.3.0",
       "files": [
@@ -11528,7 +11812,11 @@
       ]
     },
     "System.Text.Encoding/4.3.0": {
+<<<<<<< HEAD
       "sha512": "BiIg+KWaSDOITze6jGQynxg64naAPtqGHBwDrLaCtixsa5bKiR8dpPOHA7ge3C0JJQizJE+sfkz1wV+BAKAYZw==",
+=======
+      "sha512": "kTfoZ0ivF7etue6uKOd3BuTsf9HG4HRRfzL9y6vDSrcqZxinlE70lq9ndbsOTwHuIrT0RJmux2VCMLXOYePm8g==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.text.encoding/4.3.0",
       "files": [
@@ -11640,7 +11928,11 @@
       ]
     },
     "System.Text.Encoding.Extensions/4.3.0": {
+<<<<<<< HEAD
       "sha512": "YVMK0Bt/A43RmwizJoZ22ei2nmrhobgeiYwFzC4YAN+nue8RF6djXDMog0UCn+brerQoYVyaS+ghy9P/MUVcmw==",
+=======
+      "sha512": "ZPBMlN3Qyjpc9Jgg/8vyDzWE/yuu8A+5xEieZdgKdIoYdCLD3mm6a9adjwUB0WuLahidMkwQ4A9we2UIsLuwcg==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.text.encoding.extensions/4.3.0",
       "files": [
@@ -11723,7 +12015,11 @@
       ]
     },
     "System.Text.RegularExpressions/4.3.0": {
+<<<<<<< HEAD
       "sha512": "RpT2DA+L660cBt1FssIE9CAGpLFdFPuheB7pLpKpn6ZXNby7jDERe8Ua/Ne2xGiwLVG2JOqziiaVCGDon5sKFA==",
+=======
+      "sha512": "44tHl0zt/WOj2JRfyGB9rUW1L4S3zKP8gY7dFyfIkwIEAvRnt5WQiSUbuk7Trf9fXNDm+ULoBc+gdcwsYGu/7g==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.text.regularexpressions/4.3.0",
       "files": [
@@ -11805,7 +12101,11 @@
       ]
     },
     "System.Threading/4.3.0": {
+<<<<<<< HEAD
       "sha512": "VkUS0kOBcUf3Wwm0TSbrevDDZ6BlM+b/HRiapRFWjM5O0NS0LviG0glKmFK+hhPDd1XFeSdU1GmlLhb2CoVpIw==",
+=======
+      "sha512": "cCvvtJMQz5JYb0TdMpVG/dUJU1iik7BIm1ZAREiBdsgTh2mYdE82tssoxEtPfuu1e/ppsTzJKjbXI0dHoVI28w==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.threading/4.3.0",
       "files": [
@@ -11874,7 +12174,11 @@
       ]
     },
     "System.Threading.Tasks/4.3.0": {
+<<<<<<< HEAD
       "sha512": "LbSxKEdOUhVe8BezB/9uOGGppt+nZf6e1VFyw6v3DN6lqitm0OSn2uXMOdtP0M3W4iMcqcivm2J6UgqiwwnXiA==",
+=======
+      "sha512": "Ul54LeJqC5pbFpypt9xxsoFwIOMcgAFHfF3F+rwTFAJCRBRmmV3n/+vPLvOaTfilZ8jpyP5jtJQK01X8h5zuWQ==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.threading.tasks/4.3.0",
       "files": [
@@ -12092,7 +12396,11 @@
       ]
     },
     "System.Threading.Timer/4.3.0": {
+<<<<<<< HEAD
       "sha512": "Z6YfyYTCg7lOZjJzBjONJTFKGN9/NIYKSxhU5GRd+DTwHSZyvWp1xuI5aR+dLg+ayyC5Xv57KiY4oJ0tMO89fQ==",
+=======
+      "sha512": "g7VRQZE8Wht+yzKj9JtnqfzlsF/bR+ilG3YmqVcDdXKY+oB7XLXzlylMf3RNPif82/yjLiH96lgsVqi4t74bFA==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.threading.timer/4.3.0",
       "files": [
@@ -12188,7 +12496,11 @@
       ]
     },
     "System.Xml.ReaderWriter/4.3.0": {
+<<<<<<< HEAD
       "sha512": "GrprA+Z0RUXaR4N7/eW71j1rgMnEnEVlgii49GZyAjTH7uliMnrOU3HNFBr6fEDBCJCIdlVNq9hHbaDR621XBA==",
+=======
+      "sha512": "AZFhSqziS2/0NroS8kdusBdO63x3z0ryJFgUB78CaG/i+tjnm3HVfQ2UXrG/qX9hkXU+vRvliiMkZycLI2Uhug==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.xml.readerwriter/4.3.0",
       "files": [
@@ -12258,7 +12570,11 @@
       ]
     },
     "System.Xml.XDocument/4.3.0": {
+<<<<<<< HEAD
       "sha512": "5zJ0XDxAIg8iy+t4aMnQAu0MqVbqyvfoUVl1yDV61xdo3Vth45oA2FoY4pPkxYAH5f8ixpmTqXeEIya95x0aCQ==",
+=======
+      "sha512": "A4SCgEZgUMWAhbCCbsvnH40ZT9uwNlgC2CKglOQ3WtsMvUT8GFo+R2v2W9kRpDG/hFsfYcW3bHGzngGpza8vDg==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.xml.xdocument/4.3.0",
       "files": [
@@ -12363,7 +12679,11 @@
       ]
     },
     "System.Xml.XmlSerializer/4.0.11": {
+<<<<<<< HEAD
       "sha512": "FrazwwqfIXTfq23mfv4zH+BjqkSFNaNFBtjzu3I9NRmG8EELYyrv/fJnttCIwRMFRR/YKXF1hmsMmMEnl55HGw==",
+=======
+      "sha512": "IwwO+v4KGLbUmFMwZ2VeVNPcPEUXizaHvVCwPCWKGZFcUG2uzP2ULedu0dhTYGJm+A+tuzcP/QNrqzpRCk0LCA==",
+>>>>>>> parent of 464897c... json files and gitignore
       "type": "package",
       "path": "system.xml.xmlserializer/4.0.11",
       "files": [
@@ -12535,13 +12855,18 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\user\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+=======
+    "C:\\Users\\Kanakara\\.nuget\\packages\\": {},
+>>>>>>> parent of 464897c... json files and gitignore
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "c:\\CcProject\\FinalProject\\finalproject-core\\finalproject-core.csproj",
       "projectName": "finalproject-core",
       "projectPath": "c:\\CcProject\\FinalProject\\finalproject-core\\finalproject-core.csproj",
@@ -12556,6 +12881,20 @@
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+=======
+      "projectUniqueName": "c:\\Users\\Kanakara\\Desktop\\Git\\CC Project\\TestAreaProject\\FinalProject\\FinalProject\\finalproject-core\\finalproject-core.csproj",
+      "projectName": "finalproject-core",
+      "projectPath": "c:\\Users\\Kanakara\\Desktop\\Git\\CC Project\\TestAreaProject\\FinalProject\\FinalProject\\finalproject-core\\finalproject-core.csproj",
+      "packagesPath": "C:\\Users\\Kanakara\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Kanakara\\Desktop\\Git\\CC Project\\TestAreaProject\\FinalProject\\FinalProject\\finalproject-core\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Kanakara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> parent of 464897c... json files and gitignore
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
