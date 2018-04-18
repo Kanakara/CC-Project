@@ -1,0 +1,33 @@
+{
+  "name": "finalproject-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.0.0",
+    "history": "^4.7.2",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.1",
+    "react-axios": "^2.0.0",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.3.1",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-router-redux": "5.0.0-alpha.6",
+    "react-scripts": "1.1.4",
+    "redux": "^3.7.2",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "2.2.0",
+    "save": "^2.3.2",
+    "webpack": "2.5.1",
+    "webpack-cli": "^2.0.13",
+    "webpack-hot-middleware": "2.18.2",
+    "webpack-merge": "4.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
