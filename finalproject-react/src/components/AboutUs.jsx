@@ -9,7 +9,7 @@ export default class AboutUs extends React.Component {
                     <Jumbotron>
                         <h2>About Us</h2>
                         <p>This is a website to help you understand and maintain your sleep habits, 
-                            interactive calendar to track your everyday rest, monitor on a daily basis
+                            interactive calendar to track your everyday rest, daily basis monitoring,
                             and set your own schedule.
                             Why Is Sleep Important?
                             Sleep plays a vital role in good health and well-being throughout your life.
