@@ -27,7 +27,7 @@ class NavMenu extends React.Component {
                             Register
                         </NavItem>
                         <NavItem eventKey={5} componentClass={NavLink} to='/login'>
-                            Login
+                            Log In
                         </NavItem>
                     </Nav>
                 </Navbar.Collapse>
