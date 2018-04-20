@@ -9,50 +9,57 @@ export default class login extends React.Component {
          super();
          this.state = {
              email: '',
-             psw: '',       
+             password: '',       
      };
 }
 
-submitHandler() {
-    fetch("http://localhost:3000/login/")
-    .then()
-    return(Response);
+logIn() {
+    console.log('this.state', this.state);
 }
 
-updateEmail(event) {
-    this.setState({
-        ...this.state, email: event.target.value
-    })
-}
+// submitHandler() {
+//     fetch("http://localhost:3000/login/")
+//     .then()
+//     return(Response);
+// }
+
+// updateEmail(event) {
+//     this.setState({
+//         ...this.state, email: event.target.value
+//     })
+// }
 
 render(){
     return(
         <Grid>
-                    <Jumbotron>
-        <form onSubmit={this.onSubmit}>
-            <h3>Enter E-mail and Password to begin</h3>
-            <div className="form-group">
+            <Jumbotron>
+                <form onSubmit={this.onSubmit}>
+                    <h3>Enter E-mail and Password to Track your Sleep</h3>
+                    <div className="form-group">
                     <label className="control-label">E-mail</label>
-                    <input 
-                        onChange={this.onChange}
-                        value={this.state.email}
-                        type="text"
-                        name="email"
-                        className="form-control"
-                    />
-                </div>
+                        <input 
+                            onChange={this.onChange}
+                            value={this.state.email}
+                            type="text"
+                            // name="email"
+                            className="form-control"
+                            onChange = {event => this.setState({ email: event.target.value})}
+                        />
+                    </div>
                 <div className="form-group">
                     <label className="control-label">Password</label>
-                    <input 
-                        onChange={this.onChange}
-                        value={this.state.psw}
-                        type="text"
-                        name="psw"
-                        className="form-control"
-                    />
+                        <input 
+                            onChange={this.onChange}
+                            value={this.state.password}
+                            type="password"
+                            // name="password"
+                            className="form-control"
+                            onChange = {event => this.setState({ password: event.target.value})}
+                        />
                 </div>
                 <div className="form-group">
-                    <button className="btn btn-primary btn-lg">
+                    <button className="btn btn-primary btn-lg"
+                        onClick={() => this.logIn()}>
                        Log In
                     </button>
                 </div>
