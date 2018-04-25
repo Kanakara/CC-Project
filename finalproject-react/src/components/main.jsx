@@ -2,7 +2,7 @@ import React from 'react';
 import {BrowserRouter as Router, Route} from 'react-router-dom';
 import RegisterPage from './registerPage';
 import { Provider } from 'react-redux';
-import { firebaseApp } from '../fireBase';
+// import { firebaseApp } from '../fireBase';
 
 // firebaseApp.auth().onAuthStateChanged(user =>{
 //     if (user) {
@@ -15,6 +15,7 @@ import { firebaseApp } from '../fireBase';
 import Home from './home';
 import AboutUs from './AboutUs';
 import ContactUs from './contactUs';
+import registerPage from './registerPage';
 import NavMenu from './navMenu';
 import login from './login';
 import SleepTracker from './SleepTracker';
@@ -31,7 +32,7 @@ export class Main extends React.Component {
                 <Route exact path='/' component={Home} />
                 <Route path='/AboutUs' component={ AboutUs } />
                 <Route path='/ContactUs' component={ ContactUs } />
-                <Route path='/RegisterPage' component={ RegisterPage } />
+                <Route path='/registerPage' component={ registerPage } />
                 <Route path='/login' component={ login } />
                 <Route path='/sleeptracker' component={ SleepTracker } />
             </div>

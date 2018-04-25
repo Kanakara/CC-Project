@@ -3,6 +3,7 @@ import RegisterForm from './registerForm';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import { userRegisterRequest } from '../actions/registerActions'; 
+// import {Jumbotron, Grid, Row, Col, Image, Button } from 'react-bootstrap';
 
 
 class RegisterPage extends React.Component {
