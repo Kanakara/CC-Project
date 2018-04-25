@@ -1,6 +1,6 @@
 import React from 'react';
-import { Navbar, Nav, NavItem } from 'react-bootstrap';
-import { NavLink } from 'react-router-dom';
+import { Button, Navbar, Nav, NavItem, MenuItem } from 'react-bootstrap';
+import { Link, NavLink } from 'react-router-dom';
 
 class NavMenu extends React.Component {
     render() {
@@ -14,20 +14,25 @@ class NavMenu extends React.Component {
                 </Navbar.Header>
                 <Navbar.Collapse>
                     <Nav pullRight>
-                        <NavItem eventKey={1} componentClass={NavLink} to='/'>
-                            Home
+                        <NavItem eventKey={1}>
+                        {/* </NavItem> componentClass={NavLink} to='/'> */}
+                        <Link to="home">Home</Link>
                         </NavItem>
-                        <NavItem eventKey={2} componentClass={NavLink} to='/about'>
-                            About Us
+                        <NavItem eventKey={2}>
+                        {/* </NavItem> componentClass={NavLink} to='/AboutUs'> */}
+                        <Link to="AboutUs">About Us</Link>    
                         </NavItem>
-                        <NavItem eventKey={3} componentClass={NavLink} to='/contactUs'>
-                            Contact Us
+                        <NavItem eventKey={3}>
+                        {/* </NavItem> componentClass={NavLink} to='/contactUs'> */}
+                        <Link to="contactUs">Contact Us</Link>    
                         </NavItem>
-                        <NavItem eventKey={4} componentClass={NavLink} to='/registerPage'>
-                            Register
+                        <NavItem eventKey={4}>
+                        {/* </NavItem> componentClass={NavLink} to='/registerPage'> */}
+                        <Link to="registerPage">Register</Link>
                         </NavItem>
-                        <NavItem eventKey={5} componentClass={NavLink} to='/login'>
-                            Log In
+                        <NavItem eventKey={5}>
+                        {/* </NavItem> componentClass={NavLink} to='/login'> */}
+                        <Link to="login">Log In</Link>    
                         </NavItem>
                     </Nav>
                 </Navbar.Collapse>

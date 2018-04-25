@@ -1,5 +1,6 @@
 import React from 'react';
 import axios from 'axios';
+import {Jumbotron, Grid, Button } from 'react-bootstrap';
 
 
 class RegisterForm extends React.Component {
@@ -30,6 +31,8 @@ class RegisterForm extends React.Component {
     render() {
         return (
             <div>
+                <Grid>
+                    <Jumbotron>
                 <h1>Join</h1>
             <form onSubmit={this.onSubmit}>
                 <div className="form-group">
@@ -99,6 +102,8 @@ class RegisterForm extends React.Component {
                     </button>
                 </div>         
             </form>
+                </Jumbotron>
+            </Grid>
         </div>
         );
     }
